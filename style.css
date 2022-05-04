@@ -1,0 +1,32 @@
+body{
+  background-image: url("back.jpeg");
+  background-size: cover;
+}
+
+#canvas{
+    background-color: rgba(255, 255, 255, 0.897);
+    border-width: 5px;
+    border-color: black;
+    border-style: double;
+    border-radius: 30px;
+}
+
+#reset{
+	font-size: 20px;
+	width: 800;
+	padding: 10px;
+	padding-left: 300px;
+	padding-right: 300px;
+	border: 10px;
+	background-color: rgb(0, 228, 121);
+	border-radius: 100px;
+	margin-bottom: 10px;
+}
+
+h1{
+	color: rgb(0, 0, 0);
+	font-size: 40px;
+	background-color: rgba(255, 255, 255, 0.568);
+	font-family: 'Tapestry', cursive;
+	border-radius: 100px;
+}
